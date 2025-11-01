@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DeepAgri",
-    "slug": "deepagri",
+    "name": "DeepAgriAPK",
+    "slug": "deepagriapk-app-final",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,7 +21,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.yourname.deepagri",
+      "package": "com.gowthem.deepagriapk",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -33,7 +33,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "0d1cf325-c3ff-4892-9d71-d7426166375e"
+        "projectId": "054d5edf-125c-49fc-bc82-f19dfe92377a"
       }
     }
   }
